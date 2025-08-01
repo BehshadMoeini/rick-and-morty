@@ -2,6 +2,10 @@
 
 > **A modern, feature-rich web application to explore the Rick and Morty multiverse**
 
+## 🌟 [**Live Demo**](https://rick-and-morty-eight-swart.vercel.app/) 🌟
+
+**Try it now:** [https://rick-and-morty-eight-swart.vercel.app/](https://rick-and-morty-eight-swart.vercel.app/)
+
 ![Rick and Morty Explorer](https://rickandmortyapi.com/api/character/avatar/1.jpeg)
 
 [![React](https://img.shields.io/badge/React-19.1.0-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
@@ -9,6 +13,7 @@
 [![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-7.2.0-0081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.20.4-FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rick-and-morty-eight-swart.vercel.app/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ## ✨ Features
