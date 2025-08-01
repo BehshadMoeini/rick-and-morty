@@ -14,7 +14,6 @@
 [![Material-UI](https://img.shields.io/badge/Material--UI-7.2.0-0081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-5.20.4-FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rick-and-morty-eight-swart.vercel.app/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ## ✨ Features
 
